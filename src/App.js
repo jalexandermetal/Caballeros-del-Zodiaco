@@ -29,6 +29,12 @@ function App() {
           cargo='Bronze Saints'
           testimonio='Shun es uno de los personajes principales del manga y anime Saint Seiya conocido como Los Caballeros del Zodiaco. Es el Santo de bronce de Andrómeda. Se caracteriza por su personalidad pacifista, su carácter delicado y porque no le gusta herir a los demás'
         />
+        <Testimonio 
+          imagen='pegasus'
+          nombre='Seiya de Pegaso'
+          cargo='Bronze Saints'
+          testimonio='es el personaje principal de la serie de manga y anime Saint Seiya y el Saint de Pegasus durante las Guerras Santas en el siglo XX hasta antes de los eventos ocurridos en Next Dimension. Es la reencarnación del pasado Bronze Saint de Pegasus Tenma y del "Primer Pegasus", el primer humano en herir al dios Hades desde la era mitológica.'
+        />
       </div>
     </div>
   );
